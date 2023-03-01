@@ -1,12 +1,12 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+<hr>
+<p align="right">
+  <a href="https://github.com/Bang-development-team">
+    <img alt="views" title="GitHub profile views" src="https://shields-io-visitor-counter.herokuapp.com/badge?page=Bang-development-team&style=for-the-badge&logo=GitHub"/></a>
+</p>
+<hr>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<b>Join Our Team => <a href="https://github.com/Bang-development-Team/.github/issues/new?assignees=&labels=%E2%9C%89%EF%B8%8F+github-invitation&template=invitation.yml&title=Please+invite+me+to+the+Bang+development+team">Bang-development-Team's Invite Link</a></b>
+
+<hr>
